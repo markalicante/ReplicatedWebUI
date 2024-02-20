@@ -541,6 +541,22 @@ footer .row {
   font-weight: 300;
 }
 
+.akko_product_title_wrap_featured {
+  padding: 0 10px;
+  width: calc(100% - 40px);
+  background: #f0f0f0 !important;
+  position: absolute;
+  top: 100%;
+  text-align: center;
+  z-index: 999;
+  min-height: 90px;
+  font-weight: 300;
+}
+
+.akko_product_price_discount {
+  color: red;
+}
+
 .akko_product_title {
   height: 52px;
   overflow: hidden;
